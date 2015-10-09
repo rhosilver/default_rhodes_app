@@ -36,3 +36,4 @@ extensions: ["rhoconnect-client"]
 rhobundle:
   exclude_items:
   - thumb.db
+app_type: rhoelements
